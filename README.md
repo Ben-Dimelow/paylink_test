@@ -33,6 +33,6 @@ I used the below magic getter and setter trait, to set the properties used.
 ## Test 3 - Magic Getter Setter
 
 This code is mostly a minified version of https://github.com/rakshazi/getSetTrait
-I want to be completely upfront that this is how I would do it and don't want think coming up with a different way would be benifical. In fact I would just use the above via composer.
+I want to be completely upfront that this is how I would do it and don't want think coming up with a different way would be benefical. In fact I would just use the above via composer.
 
 I would make this a trait for this so that I could use it throughout my code where I need them.

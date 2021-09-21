@@ -7,6 +7,8 @@ trait MagicGetSetTrait {
     /**
      * __call
      *
+     * Use __call to check if we are using magic get or magic set
+     *
      * @param  mixed $method
      * @param  mixed $params
      * @return void
