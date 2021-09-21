@@ -10,7 +10,10 @@ Please Clone:
 
 This test can be view by running a local php server in /public
 
-<code>php -S localhost:80</code>
+<code>
+    cd ../
+    php -S localhost:80
+</code>
 
 If you navigate to <code>localhost:80/fizzbuzz</code> you will see the results of the generation.
 
@@ -18,7 +21,10 @@ If you navigate to <code>localhost:80/fizzbuzz</code> you will see the results o
 
 This test can be view by running a local php server in /public
 
-<code>php -S localhost:80</code>
+<code>
+    cd ../
+    php -S localhost:80
+</code>
 
 If you navigate to <code>localhost:80/fibonacci</code> you will see the results of the generation.
 
